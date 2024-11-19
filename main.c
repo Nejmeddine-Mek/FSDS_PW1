@@ -5,6 +5,7 @@ int main(int argc, char *argv[]){
     system("CLS");
     printf("\033[0;31m IMPORTANT:       \n\n");
     printf("\033[0;31m Please don't delete dataSet.dat file because it is essential for the loading of the file.       \n");
+    printf("\033[0;31m As it holds the data that will be loaded when doing an initial load to a file.       \n");
     printf("\033[0;31m it initially has 34 records in it, so the maximum number of records in a file loading is 34\n");
     printf("\033[0;31m There is a two files TOVSFile.dat and TnOVS.dat initially loaded with 20 records if you ever want to use them directly \n");
     printf("\033[0;31m The program is case sensitive, so make sure your inputs match the available options.            \n");
