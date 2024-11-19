@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1732035451 source:c:\users\nejem eddine\desktop\c files\pw1_mekentichi_nejemeddine_arhab_yacine\functions.c
+	"functions.h"
+
+1732035488 c:\users\nejem eddine\desktop\c files\pw1_mekentichi_nejemeddine_arhab_yacine\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1732035419 source:c:\users\nejem eddine\desktop\c files\pw1_mekentichi_nejemeddine_arhab_yacine\main.c
+	"./functions.h"
+
